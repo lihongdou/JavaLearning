@@ -1,2 +1,2 @@
 # JavaLearning
-Java小白的技术成长之路
+Java技术成长之路
