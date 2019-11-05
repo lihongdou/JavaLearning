@@ -8,7 +8,7 @@
 ## 1.下载  
 到官网下载安装包:   [https://www.jetbrains.com/idea/download](https://www.jetbrains.com/idea/download).
 ## 2.安装
-选择exe安装包模式进行安装  (笔者版本2019.2.4)
+选择exe安装包模式进行安装  (笔者版本2019.2.4)  
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191105155841614.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpaG9uZ2RvdQ==,size_16,color_FFFFFF,t_70)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191105155933540.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpaG9uZ2RvdQ==,size_16,color_FFFFFF,t_70)  
 点击**Install**进行安装  
