@@ -1,4 +1,9 @@
-﻿@[toc]
+* [一\.idea的安装](#%E4%B8%80idea%E7%9A%84%E5%AE%89%E8%A3%85)
+  * [1\.下载](#1%E4%B8%8B%E8%BD%BD)
+  * [2\.安装](#2%E5%AE%89%E8%A3%85)
+  * [3\.破解](#3%E7%A0%B4%E8%A7%A3)
+* [应用异常汇总](#%E5%BA%94%E7%94%A8%E5%BC%82%E5%B8%B8%E6%B1%87%E6%80%BB)
+  * [1\.双击应用图标无反应](#1%E5%8F%8C%E5%87%BB%E5%BA%94%E7%94%A8%E5%9B%BE%E6%A0%87%E6%97%A0%E5%8F%8D%E5%BA%94)
 # 一.idea的安装  
 ## 1.下载  
 到官网下载安装包:   [https://www.jetbrains.com/idea/download](https://www.jetbrains.com/idea/download).
