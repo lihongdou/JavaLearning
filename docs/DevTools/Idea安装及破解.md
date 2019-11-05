@@ -17,9 +17,9 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191105163919624.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpaG9uZ2RvdQ==,size_16,color_FFFFFF,t_70)
 * 破解jar包下载地址:[https://pan.baidu.com/s/1j5czQ9zpU8qS5kSJB9NJWw ](https://pan.baidu.com/s/1j5czQ9zpU8qS5kSJB9NJWw )
 不同系统不同配置方式如下:  
- > mac: -javaagent:/Users/neo/jetbrains-agent.jar 
- >  linux: -javaagent:/home/neo/jetbrains-agent.jar
- > windows: -javaagent:C:\Users\neo\jetbrains-agent.jar
+ > mac: -javaagent:/Users/neo/jetbrains-agent.jar  
+ >  linux: -javaagent:/home/neo/jetbrains-agent.jar  
+ > windows: -javaagent:C:\Users\neo\jetbrains-agent.jar  
 * 重启Idea
 * Activation code方式离线激活，使用以下的注册码激活  
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191105170532392.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpaG9uZ2RvdQ==,size_16,color_FFFFFF,t_70)
